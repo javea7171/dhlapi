@@ -1,4 +1,4 @@
-module dhlapi
+module github.com/javea7171/dhlapi
 
 go 1.19
 
