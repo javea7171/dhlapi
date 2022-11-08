@@ -13,7 +13,7 @@ For more information, please visit [https://developer.dhl.com/help-center](https
 ## Installation
 Put the package under your project folder and add the following in import:
 ```golang
-import "./swagger"
+import "github.com/javea7171/dhlapi"
 ```
 
 ## Documentation for API Endpoints
